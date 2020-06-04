@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Atto NET4</title>
+    <link>https://attonet4.github.io/</link>
+    <description>Recent content on Atto NET4</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-BR</language>
+    <lastBuildDate>Thu, 04 Jun 2020 19:20:59 -0300</lastBuildDate>
+    
+	<atom:link href="https://attonet4.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Atualização V1.42 - 04/06/2020</title>
+      <link>https://attonet4.github.io/posts/atto-net-4-v142/</link>
+      <pubDate>Thu, 04 Jun 2020 19:20:59 -0300</pubDate>
+      
+      <guid>https://attonet4.github.io/posts/atto-net-4-v142/</guid>
+      <description>&lt;h4 id=&#34;changelog&#34;&gt;Changelog:&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;(+) Correção para os canais HD (somente CS)&lt;/li&gt;
+&lt;li&gt;(+) Atualizados picons&lt;/li&gt;
+&lt;li&gt;(+) Atualizado OSCam r11579&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
